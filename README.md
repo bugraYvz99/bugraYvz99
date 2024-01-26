@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Buğra</h1>
 <h3 align="center">A passionate frontend developer from Turkey,Istanbul</h3>
 
-- 🌱 I’m currently learning **Frontend(especially React)**
+- 🌱 I have 1 year proffesinal experience in **Frontend(vue)**
+- 🌱 I have 7 months intern experience in **Frontend(React)**
 
 - 📫 How to reach me **bugrayavuz@live.com**
 
